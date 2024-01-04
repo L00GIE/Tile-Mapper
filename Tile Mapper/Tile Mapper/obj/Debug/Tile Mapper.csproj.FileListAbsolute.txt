@@ -1,0 +1,15 @@
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\bin\Debug\Tile Mapper.exe.config
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\bin\Debug\Tile Mapper.exe
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\bin\Debug\Tile Mapper.pdb
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.csproj.AssemblyReference.cache
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile_Mapper.Form1.resources
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile_Mapper.Properties.Resources.resources
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.csproj.GenerateResource.cache
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.csproj.CoreCompileInputs.cache
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.exe
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.pdb
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile_Mapper.Tile.resources
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\l_ket\source\repos\Tile Mapper\Tile Mapper\obj\Debug\Tile Mapper.csproj.CopyComplete
